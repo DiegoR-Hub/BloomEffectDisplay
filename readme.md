@@ -1,16 +1,22 @@
-#Bloom Effect Display
+Bloom Effect Display
+=============
 Bloom effect display is a python program created to visualize the Bloom Effect
 applied over a 2D image
-##Execution
+
+Execution
+-------
 Use the terminal to run it
 ```bash
 python bloom_effect.py image_filename N R G B
 ```
-##Usage
+Usage
+-------
 Given a image_filename, this program applies Bloom Effect of radius N around every
 pixel with color [R G B] given by terminal execution
 
-##Execution example
+Execution example
+-------
 python cloom_effect.py bloom.png 50 255 255 254
-## License
+License
+-------
 [MIT](https://choosealicense.com/licenses/mit/)
