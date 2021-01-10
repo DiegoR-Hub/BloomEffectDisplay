@@ -16,7 +16,9 @@ pixel with color [R G B] given by terminal execution
 
 Execution example
 -------
+```bash
 python cloom_effect.py bloom.png 50 255 255 254
+```
 License
 -------
 [MIT](https://choosealicense.com/licenses/mit/)
